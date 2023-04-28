@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "\npositive effect\n",
+    "T_STAT": "\n1.820\n\nRatio entre moyenne de notre échantillon vs moyenne de la population sur l'erreur standard (T de Student)\n",
+    "P_VALUE": "\np_value > 0.1 donc cela signifie qu'elle n'est statistiquement pas significative au seuil 90% et 95%.\n",
+    "INCREASE": "\nEn maintenant tous les paramètres constants, \nle nombre total d'incidents se réduit de 2115 pour\nchaque augmentation d'un pourcent de la proportion de famille avec un couple marié\n",
+    "LIMITATIONS": "\nNotre modèle ne prend en compte que les relations linéaires entre les variables mais pas les relations non-linéaires.\nNous avons utilisé beaucoup de variables probablement non pertinentes, augmentant le bruit de nos données.\nNotre set de données est faible donc le modèle est plus sujet à de l'overfitting.\n"
+}
